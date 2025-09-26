@@ -29,11 +29,11 @@ Simply open the main file to start the chat application.
 # Bash
 
 open index.html 
-# Or, double-click index.html in your file explorer
+ Or, double-click index.html in your file explorer
 Configure API Key (If Applicable):
 If the bot uses a secret key, you may need to update the script.js file with your own credentials (for development only).
 
-#JavaScript
+# JavaScript
 
 // Example in script.js - REPLACE WITH YOUR KEY (HANDLE SECRETS CAREFULLY)
 const AI_API_KEY = "YOUR_CODEPEN_AI_KEY_HERE";
